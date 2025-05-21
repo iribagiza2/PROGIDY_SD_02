@@ -1,5 +1,3 @@
-# PROGIDY_SD_02
-
 # The number guessing game
 
 This is a simple number guessing game that generates a random number between 1 and 100 and challenges the user to guess it. The program then gives feedback on whether the user's guess is too high or too low and allows the user to keep guessing until the number is correctly guessed. The program also tracks the number of attempts.
